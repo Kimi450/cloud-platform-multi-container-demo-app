@@ -1,5 +1,5 @@
-TEAM_NAME := davids-dummy-team
-REPO_NAME := davids-dummy-app
+TEAM_NAME := jason-lab
+REPO_NAME := multi-container-ruby
 VERSION := 1.3
 
 COMPONENTS := rails-app content-api worker
